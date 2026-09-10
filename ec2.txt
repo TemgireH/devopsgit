@@ -1,0 +1,5 @@
+launch ec2 instance
+name = webserver
+instance_type = t3.micro
+key_pair = "id_rsa.pem"
+
